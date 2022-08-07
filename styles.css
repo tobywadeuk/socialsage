@@ -261,4 +261,7 @@ a:hover {
   html {
     font-size: 12px;
   }
+  .bottomtext {
+    max-width: 25ch;
+  }
 }
