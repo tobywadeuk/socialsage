@@ -811,6 +811,10 @@ let wisdom = [
     id: 203,
     text: "Common evolution of your view on dating success:\n\n1: Just wanting a girlfriend\n\n2: Finding pickup, now wanting to “master” this and thinking monogamy is beta\n\n3: Getting burnt out of playing games and chasing endless pu$$y, becoming “spiritual” and looking for a trantric partner, possibly more open relationships still and not monogamy, but not into meaningless hookups\n\n4: Realizing even this isn’t the solution to happiness but looking much, much deeper into your mind\n\nDo NOT be afraid of this evolution. If it happens it happens. It’s absolutely fine. It doesn’t mean you’re becoming a beta male 😂 relax dude",
   },
+  {
+    id: 204,
+    text: "The thing “PUAs” don’t understand about women: \n\n Making a woman feel beautiful, seen, heard, loved, understood, and protected, is every woman’s real love language. \n\n The more you develop your capacity to love everyone without flinching or getting reactive the more attractive you become. \n\n The ultimate attraction mechanism is love. \n\n We’re all wired for love. \n\n It’s what makes the world go ‘round, baby. \n\n Strong, masculine love is the ultimate aphrodisiac! \n\n Stop hiding from it!",
+  },
 ];
 
 let randomNum = Math.floor(Math.random() * 202);
